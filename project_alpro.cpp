@@ -706,6 +706,7 @@ ulang_menu:
         goto ulang_menu;
 
     case 5:
+        // ? /06 kode unicode diamond
         cout << setw(30) << "\06\06\06\06Program Berhenti\06\06\06\06";
         break;
 
